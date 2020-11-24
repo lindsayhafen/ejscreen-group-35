@@ -24,7 +24,7 @@ ggplot(data = ces, aes(x = white_percent, y = ces_3_0_score))+
   labs(x = "Percent of population that is white", y = "CalEnviroScreen 3.0 score")
 ```
 
-
+Tried repushing
 
 
 
