@@ -27,6 +27,6 @@ ggplot(data = ces, aes(x = white_percent, y = ces_3_0_score))+
   labs(title = "Relationship between community pollution burden and the percent of the community that is white")
 ```
 
-
+The overall trend in this relationship is that populations with more white people tend to have a lower CalEnviroScreen 3.0 Score, meaning that as the percentage of white people in a population increases, there is less pollution burden on the community. 
 
 
